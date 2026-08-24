@@ -1,0 +1,6 @@
+{
+  "name": "BeatPulse AI",
+  "description": "Akıllı Müzik & Ritim Pratik Asistanı - Visual metronome, live audio beat analyzer, and AI rhythm practice coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
